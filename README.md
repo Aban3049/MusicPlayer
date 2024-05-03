@@ -1,4 +1,4 @@
-A Jetpack Compose Music Player
+### A Jetpack Compose Music Player
 
 This is a modern music player app designed to bring a harmonious blend of design and functionality to your fingertips. Built with the latest Jetpack Compose, Harmony offers a sleek, user-friendly interface that makes listening to your favorite tunes a visually stunning experience.
 Features 🎵
@@ -10,18 +10,17 @@ Playlist Management: Create, edit, and organize your playlists with drag-and-dro
 Powerful Search: Quickly find artists, albums, and songs with our smart search feature.
 Audio Enhancements: Built-in equalizer settings to fine-tune your music just the way you like it.
 
-https://github.com/Aban3049/MusicPlayer/assets/157634467/debc6f8c-fca3-4cfa-a77e-9545ad4be030
 
 
-Modern Programming Approach 🛠️
+### Modern Programming Approach 🛠️
 
 Kotlin Coroutines & Flow: For asynchronous tasks and real-time updates, providing a smooth and lag-free experience.
     
-Getting Started 🚀
+### Getting Started 🚀
 
 To get started, clone the repository to your local machine:
 
-    git clone (https://github.com/Aban3049/MusicPlayer.git)
+    git clone https://github.com/Aban3049/MusicPlayer.git
 
 Build the project in Android Studio or IntelliJ and run it on your Android device or emulator.
 Contribution Guidelines ✨
