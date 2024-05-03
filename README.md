@@ -3,7 +3,7 @@
 This is a modern music player app designed to bring a harmonious blend of design and functionality to your fingertips. Built with the latest Jetpack Compose, Harmony offers a sleek, user-friendly interface that makes listening to your favorite tunes a visually stunning experience.
 Features 🎵
 
-![musicApp1](https://github.com/Aban3049/MusicPlayer/assets/157634467/6dc2fa59-0d9e-4603-9885-b8c778e07b9d)    ![musicApp2](https://github.com/Aban3049/MusicPlayer/assets/157634467/de8e4486-6b3a-4dd9-aede-cf950576672c)
+![musicApp1](https://github.com/Aban3049/MusicPlayer/assets/157634467/8cf3803e-e08a-4614-97fc-2a207749e92c)   ![musicApp2](https://github.com/Aban3049/MusicPlayer/assets/157634467/de8e4486-6b3a-4dd9-aede-cf950576672c)
 
 
 
