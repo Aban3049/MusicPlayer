@@ -3,6 +3,10 @@
 This is a modern music player app designed to bring a harmonious blend of design and functionality to your fingertips. Built with the latest Jetpack Compose, Harmony offers a sleek, user-friendly interface that makes listening to your favorite tunes a visually stunning experience.
 Features 🎵
 
+![musicApp1](https://github.com/Aban3049/MusicPlayer/assets/157634467/27099caa-ce6e-446a-8e02-9989e66d8e88)   ![musicApp2](https://github.com/Aban3049/MusicPlayer/assets/157634467/de8e4486-6b3a-4dd9-aede-cf950576672c)
+
+
+
 Modern UI Design: A clean and intuitive interface that adheres to Material Design principles, providing a seamless user experience.
 Jetpack Compose Architecture: Utilizes the latest UI toolkit for Android, allowing for a more efficient and responsive app.
 Dynamic Theming: Light and dark modes that adapt to your system preferences or let you set your mood manually.
