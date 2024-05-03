@@ -10,6 +10,9 @@ Playlist Management: Create, edit, and organize your playlists with drag-and-dro
 Powerful Search: Quickly find artists, albums, and songs with our smart search feature.
 Audio Enhancements: Built-in equalizer settings to fine-tune your music just the way you like it.
 
+https://github.com/Aban3049/MusicPlayer/assets/157634467/debc6f8c-fca3-4cfa-a77e-9545ad4be030
+
+
 Modern Programming Approach 🛠️
 
 Kotlin Coroutines & Flow: For asynchronous tasks and real-time updates, providing a smooth and lag-free experience.
